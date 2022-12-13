@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{BB75D6B8-AC8E-C9D6-96C1-CE632C462014}|">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="504f8efc-92f2-4407-8965-6126b8cf3f52" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ProjectorBehaviour.cs">
+    <Files>
+      <File FileName="Library/PackageCache/com.unity.xr.arfoundation@5.0.3/Runtime/ARFoundation/ARInputManager.cs" />
+      <File FileName="Assets/Scripts/ProjectorBehaviour.cs" Line="9" Column="2" />
+      <File FileName="Assets/Shaders/SpotShader.shader" Line="7" Column="57" />
+      <File FileName="Assets/Scripts/ScreenSpaceCameraRenderer.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RealtimeProjectorSample" expanded="True">
+            <Node name="Packages" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
